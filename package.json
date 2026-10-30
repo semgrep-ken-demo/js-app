@@ -194,7 +194,7 @@
     "svg-captcha": "^1.4.0",
     "swagger-ui-express": "^4.1.4",
     "ts-node-dev": "^1.1.6",
-    "undici": "^5.19.0",
+    "undici": "^6.29.1",
     "unzipper": "0.9.15",
     "vm2": "^3.9.0",
     "wifey": "^2.0.6",
